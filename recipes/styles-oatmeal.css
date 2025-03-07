@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgb(211, 233, 197);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.link
+{
+    text-decoration: none;
+    color: rgb(39, 39, 39)
+}
+
+h1
+{
+    color: rgb(10,94,58);
+    text-align: center;
+    border: 4px solid rgb(52, 62, 56);
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+    margin: auto 150px;
+    background-color:  rgb(163, 194, 156);
+}
+
+h2,
+h3,
+li
+{
+    color: rgb(39, 39, 39);
+}
+
+.ingredients,.needed,.steps,.desc
+{
+    box-sizing:border-box;
+    border: 5px rgb(148, 189, 147) solid;
+    padding: 15px 20px;
+    background-color: rgb(223, 247, 217);
+}
